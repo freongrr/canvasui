@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "http://www.gwtproject.org/doctype/2.8.0/gwt-module.dtd">
+<module rename-to="CanvasUI">
+    <inherits name="com.google.gwt.core.Core" />
+    <inherits name="com.google.gwt.user.UserAgent" />
+    <inherits name="com.google.gwt.user.User" />
+    <inherits name="gwt.g2d.g2d" />
+
+    <source path="events" />
+    <source path="g2d" />
+    <source path="graphics" />
+    <source path="laf" />
+    <source path="layouts" />
+    <source path="shapes" />
+    <source path="ui" />
+    <public path="public" />
+
+    <set-configuration-property name="xsiframe.failIfScriptTag" value="FALSE" />
+
+    <stylesheet src="css/CanvasUI.css" />
+</module>

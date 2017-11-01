@@ -1,0 +1,43 @@
+.cursor-move {
+	cursor: move;
+}
+
+.cursor-resize-n {
+	cursor: n-resize;
+}
+
+.cursor-resize-s {
+	cursor: s-resize;
+}
+
+.cursor-resize-e {
+	cursor: e-resize;
+}
+
+.cursor-resize-w {
+	cursor: w-resize;
+}
+
+.cursor-resize-ne {
+	cursor: ne-resize;
+}
+
+.cursor-resize-nw {
+	cursor: nw-resize;
+}
+
+.cursor-resize-se {
+	cursor: se-resize;
+}
+
+.cursor-resize-sw {
+	cursor: sw-resize;
+}
+
+.cursor-normal {
+	cursor: auto;
+}
+
+.cursor-text {
+	cursor: text;
+}
